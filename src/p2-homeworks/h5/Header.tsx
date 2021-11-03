@@ -19,7 +19,7 @@ function Header() {
                 <NavLink to='/junior+' className={s.navPreJunPlus} activeClassName={s.active}>
                     Junior+
                 </NavLink>
-                <div className={s.header}>Header</div>
+                <div className={s.header}>Header(hw5)</div>
             </div>
 
         </div>

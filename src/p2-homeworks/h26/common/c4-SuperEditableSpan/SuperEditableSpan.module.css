@@ -1,0 +1,7 @@
+.beautySpan {
+    background: url("icon/pencil_icon.png") left top;
+    width: 32px;
+    height: 32px;
+    display: block;
+    float: left;
+}

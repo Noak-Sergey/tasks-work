@@ -4,7 +4,6 @@
 
 .affair {
     display: flex;
-
 }
 
 .name {
@@ -13,7 +12,8 @@
 }
 
 .priority {
-    margin: 0 5px 0 180px
+    margin: 0 5px 0 180px;
+
 }
 
 .button {

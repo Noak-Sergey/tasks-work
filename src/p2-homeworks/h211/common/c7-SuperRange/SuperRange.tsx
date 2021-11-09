@@ -31,7 +31,6 @@ const SuperRange: React.FC<SuperRangePropsType> = (
     return (
         <>
             <input
-                style={{width:"500px"}}
                 type={'range'}
                 onChange={onChangeCallback}
                 className={finalRangeClassName}

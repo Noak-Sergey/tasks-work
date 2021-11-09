@@ -1,10 +1,11 @@
 import React from 'react'
+import HW12 from "../../h12/HW12";
 
 
 export function JuniorPlus() {
     return (
         <div>
-            Hi i am also junior frontend developer !!!
+            <HW12/>
         </div>
     )
 }

@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/tasks-work/static/css/main.f15acf3b.chunk.css",
-    "main.js": "/tasks-work/static/js/main.da29a370.chunk.js",
-    "main.js.map": "/tasks-work/static/js/main.da29a370.chunk.js.map",
+    "main.js": "/tasks-work/static/js/main.de15bba8.chunk.js",
+    "main.js.map": "/tasks-work/static/js/main.de15bba8.chunk.js.map",
     "runtime-main.js": "/tasks-work/static/js/runtime-main.ccad5b87.js",
     "runtime-main.js.map": "/tasks-work/static/js/runtime-main.ccad5b87.js.map",
-    "static/js/2.01ada0cf.chunk.js": "/tasks-work/static/js/2.01ada0cf.chunk.js",
-    "static/js/2.01ada0cf.chunk.js.map": "/tasks-work/static/js/2.01ada0cf.chunk.js.map",
+    "static/js/2.9405a91b.chunk.js": "/tasks-work/static/js/2.9405a91b.chunk.js",
+    "static/js/2.9405a91b.chunk.js.map": "/tasks-work/static/js/2.9405a91b.chunk.js.map",
     "index.html": "/tasks-work/index.html",
     "static/css/main.f15acf3b.chunk.css.map": "/tasks-work/static/css/main.f15acf3b.chunk.css.map",
-    "static/js/2.01ada0cf.chunk.js.LICENSE.txt": "/tasks-work/static/js/2.01ada0cf.chunk.js.LICENSE.txt",
+    "static/js/2.9405a91b.chunk.js.LICENSE.txt": "/tasks-work/static/js/2.9405a91b.chunk.js.LICENSE.txt",
     "static/media/Preloader.5cf28d5a.gif": "/tasks-work/static/media/Preloader.5cf28d5a.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.ccad5b87.js",
-    "static/js/2.01ada0cf.chunk.js",
+    "static/js/2.9405a91b.chunk.js",
     "static/css/main.f15acf3b.chunk.css",
-    "static/js/main.da29a370.chunk.js"
+    "static/js/main.de15bba8.chunk.js"
   ]
 }
